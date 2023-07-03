@@ -1,0 +1,269 @@
+.container{
+    max-width: 1440px;
+    width: 100%;
+    margin: auto;
+    border: 2px black dotted;
+}
+
+.container h2{
+    display: block;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20px;
+    width: 64px;
+    height: 20px;
+    margin-top: 57px;
+    margin-left: 144px;
+
+    color: #5863E3;
+}
+.container h3{
+    font-family: Helvetica;
+    font-size: 49px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.free{
+    margin-top: 7px;
+    margin-left: 144px;
+    margin-bottom: 57px;
+    width: 371px;
+    height: 112px;
+    top: 84px;
+    left: 144px;
+}
+.textbox{
+  margin-left: 144px;
+  display: flex;
+
+}.txtarea{
+    
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+        border: 2px solid skyblue;
+}
+.form1{
+    margin-left: 20px;
+}
+.f1{
+    margin-left: 20px;
+
+}
+input[type=text] {
+    margin-bottom: 20px;
+    border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+        border: 2px solid skyblue;
+}
+input[type=submit]{
+    cursor: pointer;
+    color: white;
+    background-color:#5968F4;
+}
+input[type=submit]:hover {
+    background-color: blue;
+  }
+
+
+
+  /* section 1 end */
+
+
+
+
+  .flex{
+    display: flex;
+  }
+  .card{
+    width: 230px;
+    height: 180px;
+  }
+  .logo{
+    position: relative;
+    margin: auto;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #5968F4;
+  }
+  .env{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    top: 7px;
+    left: 7px;
+  }
+ .txt{
+    margin-left: 85px;
+    margin-top: 16px;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23px;
+    
+
+ }
+ .flex{
+    justify-content: space-evenly;
+ }
+ .env1{
+    margin-left: 22px;
+    margin-top: 16px;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    color: #99999A;
+
+
+ }
+ .env2{
+    margin-top: 8px;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    color: #99999A;
+ }
+ .pho{
+    position: absolute;
+    width: 51px;
+    height: 41px;
+    top: 14px;
+    left: 10px;
+ }
+ .dot{
+    position: absolute;
+    width: 51px;
+    height: 41px;
+    top: 14px;
+    left: 10px;
+ }
+ .ph1{
+    margin-left: 55px;
+    margin-top: 16px;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    color: #99999A;
+
+ }
+ .ph2{
+    margin-left: 55px;
+    margin-top: 8px;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    color: #99999A;
+ }
+ .loc1{
+    margin-left: 30px;
+    margin-top: 16px;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    color: #99999A;
+ }
+ .loc2{
+    margin-left: 20px;
+    margin-top: 8px;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    color: #99999A;
+ }
+
+
+
+
+
+ /* Section 2 End */
+
+
+
+
+ .div0{
+    margin-bottom: 53px;
+ }
+
+
+
+.h5{
+    margin-left: 144px;
+    margin-bottom: 7px;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #5863E3;
+}
+.h6{
+    margin-left: 144px;
+    width: 548px;
+    height: 112px;
+    font-family: Helvetica;
+    font-size: 49px;
+    font-weight: 400;
+    line-height: 56px;
+}
+
+/* shua Div */
+
+
+
+.flex2{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 39px;
+}
+
+
+
+/* Footeris dasawyisi */
+
+
+
+
+
+footer{
+    width: 1440px;
+    height: 372px;
+    background-color: black;
+}
+.div1{
+    width: 450px;
+    height: 370px;
+    border: 2px white dotted;
+}
+.Hotel{
+    margin-left: 143px;
+    margin-top: 63px;
+    font-family: Helvetica;
+    font-size: 26px;
+    font-weight: 700;
+    color: white;
+
+}
+.p1{
+    margin-top: 23px;
+    margin-left: 143px;
+    width: 295px;
+    height: 80px;
+    color:#99999A;
+}
+.img0{
+
+    width: 46px;
+    height: 46px;
+}
+.img3{
+    margin-top: 27px;
+    margin-left: 143px;
+    width: 50px;
+    height: 50px;
+}
